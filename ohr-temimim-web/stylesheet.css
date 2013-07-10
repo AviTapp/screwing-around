@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+
+#container {
+	width: 960px;
+}
+body {
+	margin: 0px;
+}
+#logo {
+	height: 140px;
+	width: 140px;
+	margin-right: 20px;
+	margin-left: 10px;
+	float: left;
+}
+#header {
+	width: 780px;
+	float: left;
+	margin-right: 10px;
+	font-variant: small-caps;
+	font-size: xx-large;
+	text-align: center;
+	padding-top: 16px;
+	padding-bottom: 16px;
+}
